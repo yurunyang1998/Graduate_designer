@@ -1,9 +1,9 @@
 # Graduate_designer
 A tool to convert dicom and rt structure to nrrd
 ## Dependence
-PyQt5
-pandas
-pydicom
+PyQt5  
+pandas  
+pydicom  
 
 ## How to use
 ### usage 1  提取指定rt
